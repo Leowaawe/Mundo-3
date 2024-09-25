@@ -14,7 +14,7 @@
 
 <hr>
 
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
+* [LEONARDO CIPRIANO](Leowaawe/Mundo-3 (github.com)) - MATRICULA: 202302731406
 <hr>
  <h1 align="center"> Missão Prática | Nível 1 | Mundo 3 </h1>
  <h2 align="left" > Implementação de um cadastro de clientes em modo texto, com persistência
@@ -37,9 +37,9 @@ em arquivos, baseado na tecnologia Java. </h2>
 
 <h2> Códigos </h2>
 
-[Procedimento 1: Criação das Entidades e Sistema de Persistência](https://github.com/Gregdev22/Missao-1-Mundo-3/tree/main/CadastroPOO)
+[Procedimento 1: Criação das Entidades e Sistema de Persistência](Leowaawe/Mundo-3 (github.com)/tree/main/CadastroPOO)
 
-[Procedimento 2: Criação do Cadastro em Modo Texto](https://github.com/Gregdev22/Missao-1-Mundo-3/tree/main/CadastroPOO2)
+[Procedimento 2: Criação do Cadastro em Modo Texto](Leowaawe/Mundo-3 (github.com)/tree/main/CadastroPOO2)
 
 <hr>
 <h1>Entidades:</h1>
@@ -722,13 +722,13 @@ public class CadastroPOO2 {
 <hr>
 <h1>Resultados: </h1>
 :triangular_flag_on_post: Procedimento 1: 
- <img src="https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/Captura%20de%20tela%202023-08-23%20053634.png" alt="resultado 1" width="320" height="320">
+ <img src="Leowaawe/Mundo-3 (github.com)/Missao-1-Mundo-3/blob/main/Captura%20de%20tela%202023-08-23%20053634.png" alt="resultado 1" width="320" height="320">
 
 <br>
 
 :triangular_flag_on_post:Procedimento 2: https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/cadastro-clientes-2x-feito-com-o-clipchamp_KcvO1kpf.mp4
 
-https://github.com/Gregdev22/Missao-1-Mundo-3/assets/103840468/16647a6f-122e-4a3c-8cc8-e61cdcde2050
+Leowaawe/Mundo-3 (github.com)
 <hr>
 <h1>Análise e Conclusão</h1>
 <ul>
