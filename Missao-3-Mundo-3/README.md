@@ -34,7 +34,7 @@
 
 <h2> Códigos </h2>
 
-[Procedimento 1: Mapeamento Objeto-Relacional e DAO]( Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/tree/main/Procedimento1/CadastroBD)
+[Procedimento 1: Mapeamento Objeto-Relacional e DAO](https://github.com/Leowaawe/Missao-3-Mundo-3/tree/main/Procedimento1/CadastroBD)
 
 * Classe Pessoa
 
@@ -706,7 +706,7 @@ public class CadastroBDTeste {
 ```
 <br>
 
-[Procedimento 2: Alimentando a Base]( Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/tree/main/Procedimento2/CadastroBD)
+[Procedimento 2: Alimentando a Base](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-3-Mundo-3/Procedimento2-CadastroBD)
 
 * Classe CadastroBDTeste2 (Procedimento 2)
 
@@ -1100,36 +1100,36 @@ public class CadastroBDTeste2 {
 
 <hr>
 <h1>Resultados: </h1>
-:triangular_flag_on_post: Procedimento 1: https://github.com/Gregdev22/Missao-3-Mundo-3/tree/main/Procedimento1
+:triangular_flag_on_post: Procedimento 1:(https://github.com/Leowaawe/Mundo-3/tree/main/Missao-3-Mundo-3/Procedimento1)
 
 <h2> Instanciar uma pessoa física e persistir no banco de dados </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/2%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/2%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2>Alterar os dados da pessoa física no banco </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/3%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<!-- <img src=" https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/3%20proc%201.png" alt="resultado 1" width="1280" height="360"> -->
 
 <h2> Consultar todas as pessoas físicas do banco de dados e listar no console </h2>
-<img src= Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/4%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src= https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/4%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2> Excluir a pessoa física criada anteriormente no banco </h2>
-<img src= Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/5%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src= https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/5%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2> Instanciar uma pessoa jurídica e persistir no banco de dados </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/6%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src=" https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/6%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2> Alterar os dados da pessoa jurídica no banco </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/7%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src=" https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/7%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2> Consultar todas as pessoas jurídicas do banco e listar no console </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/8%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src=" https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/8%20proc%201.png" alt="resultado 1" width="1280" height="360">
 
 <h2> Excluir a pessoa jurídica criada anteriormente no banco </h2>
-<img src= Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento1/9%20proc%201.png" alt="resultado 1" width="1280" height="360">
+<img src= https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento1/9%20proc%201.png" alt="resultado 1" width="1280" height="360">
 <br>
 
-:triangular_flag_on_post: Procedimento 2:Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/blob/main/Procedimento2/CadastroBD/procedimento-2_1fF7rEIi.mp4
+:triangular_flag_on_post: Procedimento 2:https://github.com/Leowaawe/Missao-3-Mundo-3/blob/main/Procedimento2/CadastroBD/procedimento-2_1fF7rEIi.mp4
 
-Leowaawe/Mundo-3 (github.com)/Missao-3-Mundo-3/assets/103840468/992a511c-6220-4fa1-9af5-966171cbbc7f
+https://github.com/Leowaawe/Missao-3-Mundo-3/assets/103840468/992a511c-6220-4fa1-9af5-966171cbbc7f
 
 <hr>
 
