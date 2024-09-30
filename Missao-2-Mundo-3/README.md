@@ -100,7 +100,7 @@ create sequence seq_Pessoa
 	no cycle;
 ```
 
-[Procedimento 2: Alimentando a Base]( Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/tree/main/Procedimento%202)
+[Procedimento 2: Alimentando a Base]((https://github.com/Leowaawe/Mundo-3/tree/main/Missao-2-Mundo-3)/Missao-2-Mundo-3/tree/main/Procedimento%202)
 ``` sql
 use Loja;
 
