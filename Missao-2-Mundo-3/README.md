@@ -14,7 +14,7 @@
 
 <hr>
 
-* [LEONARDO LOPES](Git: Leowaawe/Mundo-3 (github.com)) - MATRICULA: 2023027314060
+* [LEONARDO LOPEZ](Git: Leowaawe/Mundo-3 (github.com)) - MATRICULA: 2023027314060
 <hr>
  <h1 align="center"> Missão Prática | Nível 2 | Mundo 3 </h1>
  <h2 align="left" > Modelagem e implementação de um banco de dados simples, utilizando como base o SQL
