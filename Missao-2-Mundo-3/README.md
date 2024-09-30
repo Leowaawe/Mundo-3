@@ -38,7 +38,7 @@ do SQL Server
 
 <h2> Códigos </h2>
 
-[Procedimento 1: Criando o Banco de Dados]( Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/tree/main/Procedimento%201)
+[Procedimento 1: Criando o Banco de Dados](https://github.com/Leowaawe/Missao-2-Mundo-3/tree/main/Procedimento%201)
 
 ``` sql
 create database Loja;
@@ -214,31 +214,31 @@ group by produto.nome;
 <h1>Resultados: </h1>
 :triangular_flag_on_post: Procedimento 1: 
 <h2>Modelo</h2>
- <img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%201/Modelo%20procedimento%201.png" alt="resultado 1" width="640" height="640">
+ <img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%201/Modelo%20procedimento%201.png" alt="resultado 1" width="640" height="640">
 <h2> Banco e Tabelas </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%20tabelas.png" alt="resultado 1" width="640" height="480">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%20tabelas.png" alt="resultado 1" width="640" height="480">
 <h2> Usuario/Logon Loja </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%203a.png" alt="resultado 1" width="640" height="480">
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%203b.png" alt="resultado 1" width="640" height="480">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%203a.png" alt="resultado 1" width="640" height="480">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%201/Proc%201%203b.png" alt="resultado 1" width="640" height="480">
 <br>
 
 :triangular_flag_on_post:Procedimento 2: 
 <h2>Usuarios</h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%201b.png" alt="resultado 1" width="480" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%201b.png" alt="resultado 1" width="480" height="320">
 <h2>Produtos</h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%201c.png" alt="resultado 1" width="480" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%201c.png" alt="resultado 1" width="480" height="320">
 <h2>Movimentos</h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%203.png" alt="resultado 1" width="480" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%203.png" alt="resultado 1" width="480" height="320">
 <h2> Dados completos de pessoas físicas e juridicas </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/dados%20completos%20de%20pf%20e%20pj.png" alt="resultado 1" width="480" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/dados%20completos%20de%20pf%20e%20pj.png" alt="resultado 1" width="480" height="320">
 <h2> Movimentações de entrada e saida, com produto, comprador, fornecedor, quantidade, preço unitário e valor total </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204c%204d.png" alt="resultado 1" width="640" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204c%204d.png" alt="resultado 1" width="640" height="320">
 <h2> Valor total das entradas e saidas agrupadas por produto</h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204e%204f.png" alt="resultado 1" width="640" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204e%204f.png" alt="resultado 1" width="640" height="320">
 <h2> Operadores que não efetuaram movimentações de entrada (compra).Valor total de entrada e saida agrupado por operador </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204g%204h%204i.png" alt="resultado 1" width="640" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204g%204h%204i.png" alt="resultado 1" width="640" height="320">
 <h2> Valor médio de venda por produto, utilizando média ponderada </h2>
-<img src=" Leowaawe/Mundo-3 (github.com)/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204j.png" alt="resultado 1" width="640" height="320">
+<img src=" https://github.com/Leowaawe/Missao-2-Mundo-3/blob/main/Procedimento%202/Proc%202%204j.png" alt="resultado 1" width="640" height="320">
 <hr>
 <h1>Análise e Conclusão</h1>
 <ul>
