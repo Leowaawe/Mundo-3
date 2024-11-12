@@ -7,14 +7,14 @@
      <hr>
 </div> 
 
-* DESENVOLVIMENTO FULL STACK- TURMA 23.3 -9003
+* DESENVOLVIMENTO FULL STACK-9001
 * Disciplina: RPG0017  - Vamos Integrar Sistemas.
-* Semestre Letivo: 2023.2
-* Repositorio Git: https://github.com/Gregdev22/Missao-4-Mundo-3
+* Semestre Letivo: 2024.3
+* Repositorio Git: (https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3)
 
 <hr>
 
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
+* [LEONARDO LOPEZ](Leowaawe/Mundo-3 (github.com)) - MATRICULA: 2023027314060
 <hr>
  <h1 align="center"> Missão Prática | Nível 4 | Mundo 3 </h1>
  <h2 align="left" > Implementação de sistema cadastral com interface Web, baseado nas tecnologias deServlets, JPA e JEE. </h2> 
@@ -35,7 +35,7 @@ lidar com contextos reais de aplicação.
 
 <h2> Códigos </h2>
 
-[Procedimento 1: Camadas de Persistência e Controle](https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%201)
+[Procedimento 1: Camadas de Persistência e Controle](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%201)
 
 * ServletProduto.java
 
@@ -147,7 +147,7 @@ public class ServletProduto extends HttpServlet {
 ```
 <br>
 
-[Procedimento 2: Interface Cadastral com Servlet e JSPs](https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%202)
+[Procedimento 2: Interface Cadastral com Servlet e JSPs](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%202)
 
 * ServletProduto.java
 ```java
@@ -586,7 +586,7 @@ public class ServletProdutoFC extends HttpServlet {
 ```
 <br>
 
-[Procedimento 3: Melhorando o Design da Interface](https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%203)
+[Procedimento 3: Melhorando o Design da Interface](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%203)
 
 * ProdutoLista.jsp
 ```jsp
@@ -753,46 +753,46 @@ public class ServletProdutoFC extends HttpServlet {
 ```
 <hr>
 <h1>Resultados: </h1>
-:triangular_flag_on_post: Procedimento 1: https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%201
+:triangular_flag_on_post: Procedimento 1: https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%201
 
 
-https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/2a3c6228-e493-4ab9-aa20-371e317d4f29
+https://github.com/Leowaawe/Missao-4-Mundo-3/assets/103840468/2a3c6228-e493-4ab9-aa20-371e317d4f29
 
 
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/1%20proc1%20missao%204.png" alt="resultado 1" width="1280" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/2%20proc1%20missao%204.png" alt="resultado 2" width="1280" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/3%20proc%201%20missao%204.png" alt="resultado 3" width="1280" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/4%20proc%201%20missao%204.png" alt="resultado 4" width="1280" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/5%20proc%201%20missao%204.png" alt="resultado 5" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/1%20proc1%20missao%204.png" alt="resultado 1" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/2%20proc1%20missao%204.png" alt="resultado 2" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/3%20proc%201%20missao%204.png" alt="resultado 3" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/4%20proc%201%20missao%204.png" alt="resultado 4" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/5%20proc%201%20missao%204.png" alt="resultado 5" width="1280" height="360">
 <h2> Teste do Servlet: http://localhost:8080/CadastroEE-war/ServletProduto </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/6%20proc%201%20missao%204.png" alt="resultado 6" width="1280" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/6%20proc%201%20missao%204.png" alt="resultado 6" width="1280" height="360">
 <br>
-:triangular_flag_on_post: Procedimento 2: https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%202
+:triangular_flag_on_post: Procedimento 2: https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%202
 
 
-https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/c7a35e84-ac42-4dc6-b901-5df44fd29c98
+https://github.com/Leowaawe/Missao-4-Mundo-3/assets/103840468/c7a35e84-ac42-4dc6-b901-5df44fd29c98
 
 <h2> Listar os produtos com a chamada para o endereço seguinte: http://localhost:8080/CadastroEE-war/ServletProdutoFC?acao=listar </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/1%20proc%202%20missao%204.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/1%20proc%202%20missao%204.png" alt="resultado 1" width="640" height="360">
 
 <h2> Efetuar uma inclusão a partir do link da tela de listagem </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/2%20proc2%20missao%204.png" alt="resultado 2" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/3%20proc%202%20missao%204.png" alt="resultado 3" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/2%20proc2%20missao%204.png" alt="resultado 2" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/3%20proc%202%20missao%204.png" alt="resultado 3" width="640" height="360">
 
 <h2> Efetuar uma alteração a partir do link dinâmico da listagem </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/4%20proc2%20missao%204.png" alt="resultado 4" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/5%20proc2%20missao%204.png" alt="resultado 5" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/4%20proc2%20missao%204.png" alt="resultado 4" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/5%20proc2%20missao%204.png" alt="resultado 5" width="640" height="360">
 
 <h2> Efetuar uma exclusão a partir do link dinâmico da listagem </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/6%20proc2%20missao%204.png" alt="resultado 6" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/6%20proc2%20missao%204.png" alt="resultado 6" width="640" height="360">
 <br>
 
-:triangular_flag_on_post: Procedimento 3: https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%203
+:triangular_flag_on_post: Procedimento 3: https://github.com/Leowaawe/Mundo-3/tree/main/Missao-4-Mundo-3/Procedimento%203
 
 <h2> Modificar as características de ProdutoLista.jsp e ProdutoDados.jsp por meio das bibliotecas do framework Bootstrap  </h2>
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/1%20proc3%20missao%204.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/2%20proc3%20missao%204.png" alt="resultado 2" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/3%20proc3%20missao%204.png" alt="resultado 3" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/1%20proc3%20missao%204.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/2%20proc3%20missao%204.png" alt="resultado 2" width="640" height="360">
+<img src="https://github.com/Leowaawe/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/3%20proc3%20missao%204.png" alt="resultado 3" width="640" height="360">
 
 <hr>
 
