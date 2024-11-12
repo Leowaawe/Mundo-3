@@ -60,7 +60,7 @@ import cadastroee.model.Produto;
 
 /**
  *
- * @author grego
+ * 
  */
 
 @WebServlet("/ServletProduto")
@@ -171,7 +171,7 @@ import cadastroee.model.Produto;
 
 /**
  *
- * @author grego
+ * 
  */
 
 @WebServlet("/ServletProduto")
@@ -278,7 +278,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author grego
+ * 
  */
 
 @WebServlet(name="ServletProdutoFC", urlPatterns = {"/ServletProdutoFC"})
@@ -449,8 +449,7 @@ public class ServletProdutoFC extends HttpServlet {
 ```jsp
 <%-- 
     Document   : ProdutoLista
-    Created on : 3 de out. de 2023, 21:16:09
-    Author     : grego
+  
 --%>
 
 
@@ -530,8 +529,8 @@ public class ServletProdutoFC extends HttpServlet {
 ```jsp
 <%-- 
     Document   : ProdutoDados
-    Created on : 5 de out. de 2023, 14:26:07
-    Author     : grego
+   
+    
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -592,8 +591,7 @@ public class ServletProdutoFC extends HttpServlet {
 ```jsp
 <%-- 
     Document   : ProdutoLista
-    Created on : 3 de out. de 2023, 21:16:09
-    Author     : grego
+    
 --%>
 
 
@@ -675,8 +673,7 @@ public class ServletProdutoFC extends HttpServlet {
 ```jsp
 <%-- 
     Document   : ProdutoDados
-    Created on : 5 de out. de 2023, 14:26:07
-    Author     : grego
+   
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
