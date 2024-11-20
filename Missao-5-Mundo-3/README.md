@@ -7,14 +7,14 @@
      <hr>
 </div> 
 
-* DESENVOLVIMENTO FULL STACK- TURMA 23.3 -9003
+* DESENVOLVIMENTO FULL STACK- 9001
 * Disciplina: RPG0018  - Por que não paralelizar.
-* Semestre Letivo: 2023.2
-* Repositorio Git: https://github.com/Gregdev22/Missao-5-Mundo-3-
+* Semestre Letivo: 2024.3
+* Repositorio Git: https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3
 
 <hr>
 
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
+* [LEONARDO LOPEZ](https://github.com/Leowaawe) - MATRICULA: 2023027314060
 <hr>
  <h1 align="center"> Missão Prática | Nível 5 | Mundo 3 </h1>
  <h2 align="left" > IServidores e clientes baseados em Socket, com uso de Threads tanto no lado cliente quanto no lado servidor, acessando o banco de dados via JPA. </h2> 
@@ -34,7 +34,7 @@ implementação de clientes síncronos e assíncronos. As Threads serão usadas 
 
 <h2> Códigos </h2>
 
-[Procedimento 1: Criando o Servidor e Cliente de Teste](https://github.com/Gregdev22/Missao-5-Mundo-3-/tree/main/Procedimento%201)
+[Procedimento 1: Criando o Servidor e Cliente de Teste](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%201)
 
 * CadastroClient.java
   
@@ -57,7 +57,7 @@ import model.Produto;
 
 /**
  *
- * @author grego
+ * 
  */
 public class CadastroClient {
 
@@ -112,7 +112,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author grego
+ * 
  */
 public class CadastroServer {
 
@@ -161,7 +161,7 @@ import model.Usuario;
 
 /**
  *
- * @author grego
+ * 
  */
 public class CadastroThread extends Thread {
     
@@ -238,7 +238,7 @@ public class CadastroThread extends Thread {
 
 ```
 
-[Procedimento 2: Servidor Completo e Cliente Assíncrono](https://github.com/Gregdev22/Missao-5-Mundo-3-/tree/main/Procedimento%202)
+[Procedimento 2: Servidor Completo e Cliente Assíncrono](https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%202)
 
 * CadastroClientv2.java
 ``` java
@@ -261,7 +261,7 @@ import model.Produto;
 
 /**
  *
- * @author grego
+ * 
  */
 
 
@@ -366,7 +366,7 @@ package cadastroclient;
 import javax.swing.*;
 /**
  *
- * @author grego
+ * 
  */
 public class SaidaFrame extends JDialog {
     public JTextArea texto;
@@ -403,7 +403,7 @@ import model.Produto;
 
 /**
  *
- * @author grego
+ * 
  */
 public class ThreadClient extends Thread {
     private ObjectInputStream entrada;
@@ -478,7 +478,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author grego
+ * 
  */
 public class CadastroServer {
 
@@ -534,7 +534,7 @@ import model.Usuario;
 
 /**
  *
- * @author grego
+ * 
  */
 public class CadastroThreadv2 extends Thread {
     
@@ -685,13 +685,13 @@ public class CadastroThreadv2 extends Thread {
   <hr>
 <h1>Resultados: </h1>
 :triangular_flag_on_post: Procedimento 1: https://github.com/Gregdev22/Missao-5-Mundo-3-/tree/main/Procedimento%201
-<img src="https://github.com/Gregdev22/Missao-5-Mundo-3-/blob/main/Procedimento%201/Resultados%20missao%205/1%20proc1%20missao%205.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-5-Mundo-3-/blob/main/Procedimento%201/Resultados%20missao%205/2%20proc%201%20missao%205.png" alt="resultado 2" width="640" height="360">
+<img src="https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%201/Resultados%20missao%205/1%20proc1%20missao%205.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%201/Resultados%20missao%205/2%20proc%201%20missao%205.png" alt="resultado 2" width="640" height="360">
 
 <br>
 :triangular_flag_on_post: Procedimento 2: (https://github.com/Gregdev22/Missao-5-Mundo-3-/tree/main/Procedimento%202)
-<img src="https://github.com/Gregdev22/Missao-5-Mundo-3-/blob/main/Procedimento%202/Resultados%20missao%205/2%20proc%202%20missao%205.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-5-Mundo-3-/blob/main/Procedimento%202/Resultados%20missao%205/3%20proc%202%20missao%205.png" alt="resultado 2" width="640" height="640">
+<img src="https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%202/Resultados%20missao%205/2%20proc%202%20missao%205.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Leowaawe/Mundo-3/tree/main/Missao-5-Mundo-3/procedimento%202/Resultados%20missao%205/3%20proc%202%20missao%205.png" alt="resultado 2" width="640" height="640">
 
 <hr>
 
